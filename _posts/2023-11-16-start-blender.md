@@ -47,7 +47,7 @@ last_modified_at: 2023-11-16 09:30:00+0900
   - **scroll(click)** : 회전  
   - **shift+scroll(click)** : 이동  
   - **alt+scroll(click)** : 평면 회전  
-  - **ctrl+scroll(click) | scroll(roll)** : 확대 축소 
+  - **ctrl+scroll(click) / scroll(roll)** : 확대 축소 
 
 
 ## Modifier  
