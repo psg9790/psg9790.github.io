@@ -47,7 +47,9 @@ last_modified_at: 2023-11-16 09:30:00+0900
   - **scroll(click)** : 회전  
   - **shift+scroll(click)** : 이동  
   - **alt+scroll(click)** : 평면 회전  
-  - **ctrl+scroll(click) || scroll(roll)** : 확대 축소  
+  - **ctrl+scroll(click) || scroll(roll)** : 확대 축소 
+  
+   
 ## Modifier  
 - **Array** : 규칙적이고 반복적으로 모델 배치... 귀찮은 반복작업 대신 사용    
 - **Bevel** : 모델의 전체 엣지를 Bevel  
