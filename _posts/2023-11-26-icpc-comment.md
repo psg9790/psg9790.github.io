@@ -7,8 +7,8 @@ categories:
 tags:
   - [ICPC, PS, CP, Algorithm]
 
-toc: true
-toc_sticky: true
+toc: false
+toc_sticky: false
 
 date: 2023-11-26 23:00:00+0900
 last_modified_at: 2023-11-26 23:00:00+0900
